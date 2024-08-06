@@ -1,1 +1,1 @@
-I denne leksjonen lærte jeg om filer og unntak. 
+I denne leksjonen lærte jeg om filer, unntak og bruk av datbaser/sql sammen med Java. 
