@@ -1,2 +1,2 @@
 # Grunnleggende-programmering-1
-Kode fra emnet grunnleggende programmering 1. 
+Oppgaveløsninger fra emnet: Grunnleggende programmering 1. 
