@@ -1,5 +1,5 @@
 # Oppgaveløsninger-Java 
-Oppgaveløsninger med bruk av Java fra emnene Grunnleggende programmering 1 og 2. 
+Inneholder  løsninger fra emner jeg har tatt i Java. Tilsammen 4 emner, 7,5sp som tilsvarer 800 timer selvstudie + organisert undervisning.
 
 # Grunnleggende Programmering 1 – Læringsutbytte
 Jeg har lært grunnleggende programmeringskonsepter, inkludert algoritmer, variabler, kontrollstrukturer og feilsøking. Jeg kan skrive, lese og strukturere kode med god lesbarhet, samt bruke sammensatte datatyper, delprogrammer og enkle grafiske brukergrensesnitt. Jeg har utviklet logisk og analytisk tenkning, noe som gjør meg i stand til å tilegne meg ny kunnskap innen programmering.
